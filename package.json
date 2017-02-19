@@ -2,20 +2,24 @@
   "private": true,
   "author": "The Island (git://github.com/The-Island)",
   "name": "island-emailer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/The-Island/island-emailer.git"
   },
   "main": "lib/emailer",
   "dependencies": {
-    "underscore": "^1.4.4",
-    "underscore.string": "~2.3.1",
-    "step": "0.0.5",
-    "emailjstmp": "~0.3.4",
-    "jade": "~0.30.0"
+    "emailjs": "^1.0.8",
+    "island-boots": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-boots.git#develop",
+    "pug": "^2.0.0-beta11",
+    "step": "1.0.0",
+    "underscore": "~1.8.3",
+    "underscore.string": "~3.3.4"
   },
-  "engines": {
-    "node": "~0.10.26"
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
