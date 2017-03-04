@@ -1,0 +1,7 @@
+{
+  "GMAIL_FROM": "Island <robot@island.io>",
+  "GMAIL_USER": "robot@island.io",
+  "GMAIL_HOST": "smtp.gmail.com",
+  "GMAIL_PASSWORD": "I514nDr06ot",
+  "GMAIL_SSL": true
+}
