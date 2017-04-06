@@ -2,7 +2,7 @@
   "private": true,
   "author": "The Island (git://github.com/The-Island)",
   "name": "island-emailer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/The-Island/island-emailer.git"
