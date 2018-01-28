@@ -9,7 +9,7 @@
   "main": "lib/emailer",
   "dependencies": {
     "emailjs": "^1.0.8",
-    "@islandio/boots": "^0.0.3",
+    "@islandio/boots": "^0.0.4",
     "pug": "^2.0.0-beta11",
     "step": "1.0.0",
     "underscore": "~1.8.3",

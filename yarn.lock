@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@islandio/boots@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@islandio/boots/-/boots-0.0.3.tgz#fc9c09e51d5efc8143ccf3f88437f8688a00bf60"
+"@islandio/boots@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@islandio/boots/-/boots-0.0.4.tgz#9db60af047fcce2c71a2c9dfbd563dcd3d0de0ea"
   dependencies:
-    "@islandio/collections" "^0.0.3"
-    "@islandio/events" "^0.0.3"
+    "@islandio/collections" "^0.0.4"
+    "@islandio/events" "^0.0.4"
     "@islandio/search" "^0.0.3"
     express "^4.14.1"
     mongish "^2.0.1"
@@ -15,20 +15,20 @@
     step "1.0.0"
     underscore "~1.8.3"
 
-"@islandio/collections@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@islandio/collections/-/collections-0.0.3.tgz#364777255da9fd499f662b25024d315171cd3106"
+"@islandio/collections@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@islandio/collections/-/collections-0.0.4.tgz#e75e12ef2d8721525830590c2f3dfbcf01021264"
   dependencies:
     "@islandio/util" "^0.0.4"
     step "1.0.0"
     underscore "~1.8.3"
     underscore.string "~3.3.4"
 
-"@islandio/events@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@islandio/events/-/events-0.0.3.tgz#d7bd5e90a181691d0fe6246a168bd5d8be0169a8"
+"@islandio/events@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@islandio/events/-/events-0.0.4.tgz#d3ed07d7a54eac91b93d0ac5ee9ff3301eec0479"
   dependencies:
-    "@islandio/collections" "^0.0.3"
+    "@islandio/collections" "^0.0.4"
     "@islandio/util" "^0.0.4"
     step "1.0.0"
     underscore "~1.8.3"

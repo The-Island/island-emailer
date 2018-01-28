@@ -1,6 +1,6 @@
 var _ = require('underscore');
 var assert = require('assert');
-var boots = require('island-boots');
+var boots = require('@islandio/boots');
 var Emailer = require('../lib/emailer').Emailer;
 
 var config = {};
