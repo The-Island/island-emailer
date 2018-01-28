@@ -1,7 +1,6 @@
 {
-  "private": true,
   "author": "The Island (git://github.com/The-Island)",
-  "name": "island-emailer",
+  "name": "@islandio/emailer",
   "version": "0.0.3",
   "repository": {
     "type": "git",
@@ -10,7 +9,7 @@
   "main": "lib/emailer",
   "dependencies": {
     "emailjs": "^1.0.8",
-    "island-boots": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-boots.git#0.0.2",
+    "@islandio/boots": "^0.0.3",
     "pug": "^2.0.0-beta11",
     "step": "1.0.0",
     "underscore": "~1.8.3",
